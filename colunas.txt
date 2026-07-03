@@ -1,0 +1,13 @@
+0 - ID
+1 - Filial
+2 - NF
+3 - Modelo NF
+4 - SÃ©rie NF
+5 - Tipo doc.
+6 - Data de emissÃ£o
+7 - Data de entrada
+8 - Fornecedor
+9 - Valor
+10 - Status
+11 - CondiÃ§Ãµes de pagamento
+12 - Operador
