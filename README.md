@@ -45,14 +45,23 @@ Essas análises permitem maior controle financeiro, planejamento de estoque e ap
 
 ## 📊 Visualizações geradas
 
-### Curva ABC dos materiais
-![Curva ABC](graficos/curva_abc.png)
+#### Curva ABC dos fornecedores
+![Curva ABC](graficos/curva_abc_fornecedores.png)
 
-### Ranking de fornecedores
-![Fornecedores](graficos/fornecedores.png)
+#### Ranking de fornecedores
+![Fornecedores](graficos/top_fornecedores.png)
 
-### Produtos com maior impacto financeiro
-![Produtos](graficos/produtos.png)
+#### Compras por operador
+![Compras](graficos/compras_operador.png)
+
+#### Valor investido por mês
+![Valor por mês](graficos/valor_por_mes.png)
+
+#### Status das compras
+![Status](graficos/status_compras.png)
+
+#### Condições de pagamento
+![Condições de pagamento](graficos/condicoes_pagamento.png)
 
 ## 📂 Estrutura
 
